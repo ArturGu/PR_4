@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\WorkflowExample\WorkflowExample\bin\Debug\WorkflowExample.exe.config
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\WorkflowExample\WorkflowExample\bin\Debug\WorkflowExample.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\WorkflowExample\WorkflowExample\bin\Debug\WorkflowExample.pdb
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\WorkflowExample\WorkflowExample\obj\Debug\WorkflowExample.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\WorkflowExample\WorkflowExample\obj\Debug\WorkflowExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\WorkflowExample\WorkflowExample\obj\Debug\WorkflowExample.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\WorkflowExample\WorkflowExample\obj\Debug\WorkflowExample.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\WorkflowExample\WorkflowExample\obj\Debug\WorkflowExample.pdb

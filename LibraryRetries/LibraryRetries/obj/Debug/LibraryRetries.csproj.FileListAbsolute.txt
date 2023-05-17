@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryRetries\LibraryRetries\bin\Debug\LibraryRetries.exe.config
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryRetries\LibraryRetries\bin\Debug\LibraryRetries.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryRetries\LibraryRetries\bin\Debug\LibraryRetries.pdb
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryRetries\LibraryRetries\obj\Debug\LibraryRetries.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryRetries\LibraryRetries\obj\Debug\LibraryRetries.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryRetries\LibraryRetries\obj\Debug\LibraryRetries.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryRetries\LibraryRetries\obj\Debug\LibraryRetries.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibraryRetries\LibraryRetries\obj\Debug\LibraryRetries.pdb

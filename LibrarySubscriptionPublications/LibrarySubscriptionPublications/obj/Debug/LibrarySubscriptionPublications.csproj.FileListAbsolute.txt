@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibrarySubscriptionPublications\LibrarySubscriptionPublications\bin\Debug\LibrarySubscriptionPublications.exe.config
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibrarySubscriptionPublications\LibrarySubscriptionPublications\bin\Debug\LibrarySubscriptionPublications.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibrarySubscriptionPublications\LibrarySubscriptionPublications\bin\Debug\LibrarySubscriptionPublications.pdb
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibrarySubscriptionPublications\LibrarySubscriptionPublications\obj\Debug\LibrarySubscriptionPublications.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibrarySubscriptionPublications\LibrarySubscriptionPublications\obj\Debug\LibrarySubscriptionPublications.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibrarySubscriptionPublications\LibrarySubscriptionPublications\obj\Debug\LibrarySubscriptionPublications.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibrarySubscriptionPublications\LibrarySubscriptionPublications\obj\Debug\LibrarySubscriptionPublications.exe
+C:\Users\Admin\Desktop\КНТЕУ\II курс\II семестр\ООП\PR_4\LibrarySubscriptionPublications\LibrarySubscriptionPublications\obj\Debug\LibrarySubscriptionPublications.pdb
